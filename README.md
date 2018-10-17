@@ -1,4 +1,4 @@
-We are interested in predicting car price using the following dataset:
+We are interested in predicting car price using some factors. The dataset is from:
 
 Jeffrey C. Schlimmer. (1987). UCI Machine Learning Repository [ https://archive.ics.uci.edu/ml/datasets/automobile ]. University of California, Irvine, School of Information and Computer Sciences.
 
